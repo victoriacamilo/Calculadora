@@ -4,7 +4,7 @@ body{
     background-image: url(https://cdn.pixabay.com/photo/2014/01/29/20/32/tablet-254581__340.jpg);
     background-color: #000000;
   background-size: cover;
-  background-position: center center;
+  background-position: center right;
   background-repeat: no-repeat;
   background-attachment: fixed;
     text-align: center;
@@ -15,7 +15,7 @@ input {
     font: normal 15pt arial;
     max-width: 150px;
     margin-top: 20px;
-    
+    background-color: white;
 }
 .botão{
     max-width: 100px;
