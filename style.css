@@ -28,5 +28,6 @@ input {
 div#res {
     margin-top: 20px;
     color: black;
+    background-color: gray;
     
 }
